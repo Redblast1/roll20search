@@ -1,0 +1,14 @@
+{
+  "name": "r20search",
+  "version": "1.0.0",
+  "description": "scrapes roll20 lfg page for all listings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Pier",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.6.1"
+  }
+}
